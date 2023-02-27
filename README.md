@@ -1,7 +1,7 @@
 ## Hello World 👋 Eu sou o Marcos Silva.
 Sou um desenvolvedor com experiência em Wordpress, HTML e CSS. Atualmente estou estudando JavaScript e me apaixonando cada vez mais pela área de desenvolvimento.
 
-![Anurag's GitHub stats](https://github-readme-stats-idmarcosc.vercel.app/api?username=idmarcosc&show_icons=true&theme=tokyonight&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-idmarcosc.vercel.app/api?username=idmarcosc&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats-idmarcosc.vercel.app/api/top-langs/?username=idmarcosc&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim 🧔
