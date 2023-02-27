@@ -24,6 +24,7 @@ Aqui estão alguns dos meus projetos em destaque:
 
 - CustoDP - Projeto pessoal que desenvolvi para atender uma necessidade pessoal, envolvendo as tecnologias HTML, CSS e JavaScript.
 - [TecNews](https://idmarcosc.github.io/TecNews)
+- [África](https://idmarcosc.github.io/Africa/)
 
 ## Como me contatar 📩
 - [Linkedin](https://www.linkedin.com/in/id-marcos-silva/)
